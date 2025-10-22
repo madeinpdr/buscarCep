@@ -3,7 +3,7 @@
 Um simples script em Node.js que consome a API pública do ViaCEP para consultar informações de endereços brasileiros a partir do número do CEP.
 Este projeto foi criado com o objetivo de praticar o consumo de APIs externas usando fetch no Node.js.
 
-🚀 Tecnologias utilizadas
+# 🚀 Tecnologias utilizadas
 
 Node.js (versão 18+)
 
@@ -11,7 +11,7 @@ Fetch API
 
 ViaCEP API → https://viacep.com.br/
 
-⚠️ Tratamento de erros
+# ⚠️ Tratamento de erros
 
 O script inclui tratamento básico para:
 
@@ -21,7 +21,7 @@ Falhas de conexão;
 
 Respostas HTTP com erro (404, 500, etc).
 
-🧠 Aprendizado
+# 🧠 Aprendizado
 
 Este projeto reforça conceitos fundamentais como:
 
